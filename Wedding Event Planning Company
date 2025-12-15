@@ -1,0 +1,1 @@
+This data model represents the end-to-end operations of a wedding event planning company. It captures how weddings are booked, managed, supported by suppliers, promoted online, and evaluated by customers. At the centre of the model is each wedding event, which links customers, branches, suppliers, website activity, and feedback.
